@@ -14,7 +14,7 @@
     "homepage": "https://developer.phonepe.com",
     "require": {
         "mindplay/annotations": "^1.3",
-        "phpunit/phpunit": "5.5.*",
+        "phpunit/phpunit": "^5.5.0",
         "internations/http-mock": "^0.8.1"
     },
     "autoload": {
