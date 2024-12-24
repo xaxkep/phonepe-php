@@ -1,5 +1,5 @@
 {
-    "name": "xaxkep/php-merchant-client",
+    "name": "phonepe/php-merchant-client",
     "description": "PhonePe Merchant Client Php",
     "keywords": [
         "PhonePe",
@@ -9,7 +9,7 @@
     ],
     "support": {
         "email": "support@phonpe.com",
-        "source": "https://github.com/xaxkep/phonepe-php.git"
+        "source": "https://github.com/phonepe/phonepe-php.git"
     },
     "homepage": "https://developer.phonepe.com",
     "require": {
